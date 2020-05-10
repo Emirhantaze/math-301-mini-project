@@ -8,6 +8,6 @@ Take a coin with P(tails) = p. Flip the coin N times and let X be the random var
 # 4)
 Simulate the number of people entering a shop in one hour in Kayseri Park (let random variable X be the number of people). Simulate this RV for different lambdas (average number of people), and report the expected value and the variance of X in a table.
 # 5)
-Choose one built-in dataset in MATLAB, plot the histogram and fit a probability density function (pdf) to it. Compute the probability of a random value being less than a predetermined threshold of your choice.  
+Choose one built-in dataset in MATLAB, plot the histogram and fit a probability density function (pdf) to it. Compute the  of a random value being less than a predetermined threshold of your choice.  
 # Submission:
 A PDF document that includes your codes, execution results, and plots. Also include your observations and interpretation of the results. The deadline is May 10, 2020 11:59pm.
